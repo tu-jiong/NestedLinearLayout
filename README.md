@@ -1,2 +1,2 @@
 # NestedLinearLayout
-实现接口NestedScrollingParent, NestedScrollingChild2, ScrollingView
+实现NestedScrollingParent, NestedScrollingChild2, ScrollingView的LinearLayout
